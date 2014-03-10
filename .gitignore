@@ -19,3 +19,12 @@ DerivedData
 
 #CocoaPods
 Pods
+
+####
+# AppCode
+.idea/
+
+####
+# Xcode 5 - VCS metadata
+#
+*.xccheckout
